@@ -3,3 +3,6 @@ This repo is a collection of my favorite projects that I've done over the years 
 
 Additional project done in HTML5, CSS and JavaScript:
 https://people.rit.edu/~dop4398/230/Snowfall/particles.html
+
+Portfolio Site:
+https://dop4398.github.io/
